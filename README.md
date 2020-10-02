@@ -1,7 +1,7 @@
 # Simple_Webapp_JSON
-The website is a demonstration of parsing JSON onto a website.
-Project Duration: Sep 30, 2020 - Oct 2, 2020
-Contributors: Kevin Ma
+The website is a demonstration of parsing JSON onto a website.  
+*Project Duration: Sep 30, 2020 - Oct 2, 2020*  
+*Contributors: Kevin Ma*
 
 ## Index.html  
 This is the main HTML file.
