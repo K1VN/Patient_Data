@@ -10,7 +10,7 @@ The website is a demonstration of parsing JSON onto a website.
 This is the main HTML file.
 
 >(2) app.js  
-This is the javascript file for parsing JSON into HTML.
+This is the javascript file for parsing JSON.
 
 >(3) patient.json  
 This is a JSON file containing the data for parsing.
