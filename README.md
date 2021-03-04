@@ -1,14 +1,11 @@
-# Simple_Webapp_JSON
-The website is a demonstration of parsing JSON onto a website.  
-*Project Duration: Sep 30, 2020 - Oct 2, 2020*  
-*Contributors: Kevin Ma*
+# Patient_Data  
+Patient_data is a simple web app using Javascript to parse JSON values onto a web page.
 
-## Index.html  
-This is the main HTML file.
+* **Index.html**  
+HTML file displays page contents.
 
-## app.js  
-This is the javascript file that parses the JSON file.
+* **app.js**  
+Javascript file parses ```patient.json``` JSON file.
 
-## patient.json  
-This is a JSON file containing the data for parsing.  
-*Note that the JSON file needs to be hosted on a server to be accessed.*
+* **patient.json**  
+JSON file contains patient data. The JSON file needs to be hosted on a server to be accessed.
